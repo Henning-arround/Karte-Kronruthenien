@@ -1,0 +1,9791 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.07496,
+          49.53468
+        ]
+      },
+      "properties": {
+        "name": "Dudyńce",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.05299,
+          49.5378
+        ]
+      },
+      "properties": {
+        "name": "Pielnia",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.111388888,
+          51.918333333
+        ]
+      },
+      "properties": {
+        "name": "Stawiszyn",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.683333333,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Czchów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7,
+          49.633333333
+        ]
+      },
+      "properties": {
+        "name": "Komarno",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.808888888,
+          50.299166666
+        ]
+      },
+      "properties": {
+        "name": "Nowy Korczyn",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.57,
+          51.220555555
+        ]
+      },
+      "properties": {
+        "name": "Wieluń",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.965555555,
+          49.489444444
+        ]
+      },
+      "properties": {
+        "name": "Stara Sil’",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7,
+          49.3
+        ]
+      },
+      "properties": {
+        "name": "Terebovlja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1525,
+          49.794166666
+        ]
+      },
+      "properties": {
+        "name": "Mościska",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.854444444,
+          49.535555555
+        ]
+      },
+      "properties": {
+        "name": "Chyriv",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.345555555,
+          50.108055555
+        ]
+      },
+      "properties": {
+        "name": "Kam’janka Buz’ka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.855833333,
+          49.651111111
+        ]
+      },
+      "properties": {
+        "name": "Ščyrec’",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.169444444,
+          49.088888888
+        ]
+      },
+      "properties": {
+        "name": "Monastyrs’ka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.631944444,
+          50.8725
+        ]
+      },
+      "properties": {
+        "name": "Kielce",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.091944444,
+          53.485833333
+        ]
+      },
+      "properties": {
+        "name": "Grunwald",
+        "region": "Mazuren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.372222222,
+          49.789166666
+        ]
+      },
+      "properties": {
+        "name": "Sudova Vyšnja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.281944444,
+          48.578611111
+        ]
+      },
+      "properties": {
+        "name": "Hvizdec’",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.157222222,
+          49.958333333
+        ]
+      },
+      "properties": {
+        "name": "Krakovec",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.29228,
+          49.97883
+        ]
+      },
+      "properties": {
+        "name": "Pilzno",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988333333,
+          50.0125
+        ]
+      },
+      "properties": {
+        "name": "Tarnów",
+        "region": "Sanok;Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.60861111,
+          50.28027778
+        ]
+      },
+      "properties": {
+        "name": "Charbinowice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.83833333,
+          49.95777778
+        ]
+      },
+      "properties": {
+        "name": "Wojnicz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.566666666,
+          49.3
+        ]
+      },
+      "properties": {
+        "name": "Stebnik",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.566666666,
+          49.3
+        ]
+      },
+      "properties": {
+        "name": "Stebny",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3,
+          49.91666667
+        ]
+      },
+      "properties": {
+        "name": "Hadle Szklarskie",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8742,
+          49.88
+        ]
+      },
+      "properties": {
+        "name": "Dussowce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.418611111,
+          48.568611111
+        ]
+      },
+      "properties": {
+        "name": "Pasična",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.623611111,
+          48.528611111
+        ]
+      },
+      "properties": {
+        "name": "Deljatyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.546111,
+          49.583056
+        ]
+      },
+      "properties": {
+        "name": "Pronjatyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.63496,
+          49.56364
+        ]
+      },
+      "properties": {
+        "name": "Stary Sącz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.067222222,
+          49.446111111
+        ]
+      },
+      "properties": {
+        "name": "Berezyna",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.23979,
+          51.16313
+        ]
+      },
+      "properties": {
+        "name": "Iłża",
+        "region": "Mazowien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.17,
+          48.689444444
+        ]
+      },
+      "properties": {
+        "name": "Obertyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.721666666,
+          49.112777777
+        ]
+      },
+      "properties": {
+        "name": "Halyč",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.359722222,
+          49.044166666
+        ]
+      },
+      "properties": {
+        "name": "Kaluš",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.921965302,
+          49.211003042
+        ]
+      },
+      "properties": {
+        "name": "Chorostkiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.166666666,
+          51.0
+        ]
+      },
+      "properties": {
+        "name": "Krasnystaw",
+        "region": "Chełm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.016666666,
+          50.383333333
+        ]
+      },
+      "properties": {
+        "name": "Belz",
+        "region": "Belz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.849166666,
+          48.900833333
+        ]
+      },
+      "properties": {
+        "name": "Tysmenycja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.849166666,
+          48.900833333
+        ]
+      },
+      "properties": {
+        "name": "Тисмениця",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2,
+          49.516666666
+        ]
+      },
+      "properties": {
+        "name": "Sambir",
+        "region": "Przemyśl;Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.293611111,
+          49.635833333
+        ]
+      },
+      "properties": {
+        "name": "Bibrka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.566666666,
+          48.45
+        ]
+      },
+      "properties": {
+        "name": "Snjatyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.616666666,
+          49.416666666
+        ]
+      },
+      "properties": {
+        "name": "Rohatyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.001194444,
+          48.866861111
+        ]
+      },
+      "properties": {
+        "name": "Tlumač",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.095277777,
+          48.315
+        ]
+      },
+      "properties": {
+        "name": "Kosiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.426666666,
+          49.288055555
+        ]
+      },
+      "properties": {
+        "name": "Boryslav",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          49.35
+        ]
+      },
+      "properties": {
+        "name": "Drohobycz",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85,
+          49.25
+        ]
+      },
+      "properties": {
+        "name": "Stryj",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.457777777,
+          49.2775
+        ]
+      },
+      "properties": {
+        "name": "Černiv",
+        "region": "L’viv;Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.112777777,
+          48.144722222
+        ]
+      },
+      "properties": {
+        "name": "Bratislava",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.39929,
+          50.31993
+        ]
+      },
+      "properties": {
+        "name": "Skalbmierz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.28314,
+          49.61286
+        ]
+      },
+      "properties": {
+        "name": "Tyrawa",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3,
+          49.63333
+        ]
+      },
+      "properties": {
+        "name": "Dobra",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.274444444,
+          49.836388888
+        ]
+      },
+      "properties": {
+        "name": "Bachórz",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.424166666,
+          49.158055555
+        ]
+      },
+      "properties": {
+        "name": "Pidhorodci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85583,
+          49.68361
+        ]
+      },
+      "properties": {
+        "name": "Iskrzynia",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.65,
+          50.71667
+        ]
+      },
+      "properties": {
+        "name": "Goraj",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.523611111,
+          50.45
+        ]
+      },
+      "properties": {
+        "name": "Kyjiv",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.158547222,
+          48.935358333
+        ]
+      },
+      "properties": {
+        "name": "Rožnjativ",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92229,
+          49.80526
+        ]
+      },
+      "properties": {
+        "name": "Medyka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.05,
+          49.9
+        ]
+      },
+      "properties": {
+        "name": "Tuchów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75,
+          50.683333333
+        ]
+      },
+      "properties": {
+        "name": "Sandomierz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          47.466666666
+        ]
+      },
+      "properties": {
+        "name": "Buda",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.03398,
+          49.96384
+        ]
+      },
+      "properties": {
+        "name": "Tyczyn",
+        "region": "Przemyśl;Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.36666667,
+          49.86666667
+        ]
+      },
+      "properties": {
+        "name": "Skurowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.78333,
+          49.81667
+        ]
+      },
+      "properties": {
+        "name": "Żurawica",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.95,
+          49.58333
+        ]
+      },
+      "properties": {
+        "name": "Besko",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.31162,
+          49.59543
+        ]
+      },
+      "properties": {
+        "name": "Siemuszowa",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.216666666,
+          49.55
+        ]
+      },
+      "properties": {
+        "name": "Sanok",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89336,
+          49.96233
+        ]
+      },
+      "properties": {
+        "name": "Oles’ko",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.246944444,
+          49.732777777
+        ]
+      },
+      "properties": {
+        "name": "Zvenygorod",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8,
+          49.91667
+        ]
+      },
+      "properties": {
+        "name": "Skołoszów",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.10389,
+          49.52667
+        ]
+      },
+      "properties": {
+        "name": "Pobiedno",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.071111111,
+          48.951944444
+        ]
+      },
+      "properties": {
+        "name": "Verchnje Visoc’ke",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.78424,
+          49.78345
+        ]
+      },
+      "properties": {
+        "name": "Przemyśl",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.266944444,
+          48.438055555
+        ]
+      },
+      "properties": {
+        "name": "Hrynieczka",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.71667,
+          50.23333
+        ]
+      },
+      "properties": {
+        "name": "Opatowiec",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.04441,
+          49.30476
+        ]
+      },
+      "properties": {
+        "name": "Radoszyce",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75,
+          49.58333
+        ]
+      },
+      "properties": {
+        "name": "Lubatówka",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.946667,
+          49.786944
+        ]
+      },
+      "properties": {
+        "name": "Domaradz",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.83805556,
+          49.94555556
+        ]
+      },
+      "properties": {
+        "name": "Czudec",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.39806,
+          50.05833
+        ]
+      },
+      "properties": {
+        "name": "Nowosielce",
+        "region": "Przemyśl;Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38952,
+          49.92382
+        ]
+      },
+      "properties": {
+        "name": "Gorzejowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.433333333,
+          49.8
+        ]
+      },
+      "properties": {
+        "name": "Kołaczyce",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.770833333,
+          49.871111111
+        ]
+      },
+      "properties": {
+        "name": "Melsztyn",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66136,
+          49.47331
+        ]
+      },
+      "properties": {
+        "name": "Krościenko",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6875,
+          49.92372
+        ]
+      },
+      "properties": {
+        "name": "Dobkowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.833333333,
+          49.2
+        ]
+      },
+      "properties": {
+        "name": "Jarmolynce",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.73037,
+          49.58942
+        ]
+      },
+      "properties": {
+        "name": "Rowne",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.07754,
+          49.65896
+        ]
+      },
+      "properties": {
+        "name": "Grabownica",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.819166666,
+          49.636388888
+        ]
+      },
+      "properties": {
+        "name": "Targowiska",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66667,
+          49.81667
+        ]
+      },
+      "properties": {
+        "name": "Wapowce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.883333333,
+          49.566666666
+        ]
+      },
+      "properties": {
+        "name": "Rymanów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.403611111,
+          49.516666666
+        ]
+      },
+      "properties": {
+        "name": "Strilišča",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.181944444,
+          48.810277777
+        ]
+      },
+      "properties": {
+        "name": "Perehins’ke",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941666666,
+          48.405277777
+        ]
+      },
+      "properties": {
+        "name": "Jablyniv",
+        "region": "Podolien;Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6461,
+          49.65571
+        ]
+      },
+      "properties": {
+        "name": "Rybotycze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.266666666,
+          49.25
+        ]
+      },
+      "properties": {
+        "name": "Сатанів",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.639444,
+          49.900833
+        ]
+      },
+      "properties": {
+        "name": "Rokietnica",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.337777777,
+          49.418055555
+        ]
+      },
+      "properties": {
+        "name": "Bachlawa",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.933611111,
+          52.408333333
+        ]
+      },
+      "properties": {
+        "name": "Poznań",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.27555556,
+          49.54361111
+        ]
+      },
+      "properties": {
+        "name": "Bycowcze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.783333333,
+          49.566666666
+        ]
+      },
+      "properties": {
+        "name": "Dobromyl’",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.11531,
+          49.53758
+        ]
+      },
+      "properties": {
+        "name": "Markowce",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.424722222,
+          50.805
+        ]
+      },
+      "properties": {
+        "name": "Opatów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.616666666,
+          49.966666666
+        ]
+      },
+      "properties": {
+        "name": "Bus’k",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.12330808,
+          49.598417535
+        ]
+      },
+      "properties": {
+        "name": "Chorobriv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.232888888,
+          49.960722222
+        ]
+      },
+      "properties": {
+        "name": "Rudanci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.65,
+          49.68333
+        ]
+      },
+      "properties": {
+        "name": "Kopysno",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.65,
+          49.4
+        ]
+      },
+      "properties": {
+        "name": "Hoszów",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.937222222,
+          50.061388888
+        ]
+      },
+      "properties": {
+        "name": "Kraków",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3,
+          50.2
+        ]
+      },
+      "properties": {
+        "name": "Proszowice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325,
+          50.357777777
+        ]
+      },
+      "properties": {
+        "name": "Miechów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.71992,
+          52.84958
+        ]
+      },
+      "properties": {
+        "name": "Żnin",
+        "region": "Kujawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          53.1
+        ]
+      },
+      "properties": {
+        "name": "Golub-Dobrzyń",
+        "region": "Kujawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95602,
+          49.89806
+        ]
+      },
+      "properties": {
+        "name": "Stubno",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.322222,
+          50.848056
+        ]
+      },
+      "properties": {
+        "name": "Volodymyr-Volyns’kyj",
+        "region": "Wolhynien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.816388888,
+          49.95
+        ]
+      },
+      "properties": {
+        "name": "Radymno",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.633333333,
+          50.083333333
+        ]
+      },
+      "properties": {
+        "name": "Ropczyce",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.63333333,
+          50.35
+        ]
+      },
+      "properties": {
+        "name": "Łabędy",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.22912,
+          50.06871
+        ]
+      },
+      "properties": {
+        "name": "Łańcut",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.80795,
+          49.44229
+        ]
+      },
+      "properties": {
+        "name": "Jaśliska",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.016667,
+          50.3
+        ]
+      },
+      "properties": {
+        "name": "Zamch",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.032222222,
+          49.8425
+        ]
+      },
+      "properties": {
+        "name": "L’viv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.566666666,
+          51.25
+        ]
+      },
+      "properties": {
+        "name": "Lublin",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.096111111,
+          49.708333333
+        ]
+      },
+      "properties": {
+        "name": "Myljatyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.198055555,
+          49.071666666
+        ]
+      },
+      "properties": {
+        "name": "Čechiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86694444,
+          49.98138889
+        ]
+      },
+      "properties": {
+        "name": "Niechobrz",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.261111111,
+          52.795833333
+        ]
+      },
+      "properties": {
+        "name": "Inowrocław",
+        "region": "Kujawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.320555555,
+          49.361944444
+        ]
+      },
+      "properties": {
+        "name": "Nahujevyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.015,
+          52.088611111
+        ]
+      },
+      "properties": {
+        "name": "Śrem",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48859,
+          50.84378
+        ]
+      },
+      "properties": {
+        "name": "Świdnica",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720277777,
+          49.600555555
+        ]
+      },
+      "properties": {
+        "name": "Andrijaniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13,
+          50.010555555
+        ]
+      },
+      "properties": {
+        "name": "Artasiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.843333333,
+          49.318611111
+        ]
+      },
+      "properties": {
+        "name": "Babyno",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7175,
+          48.614444444
+        ]
+      },
+      "properties": {
+        "name": "Bahovycja",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.028888888,
+          49.766111111
+        ]
+      },
+      "properties": {
+        "name": "Balyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.818888888,
+          49.799722222
+        ]
+      },
+      "properties": {
+        "name": "Bartativ",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.652777777,
+          49.540555555
+        ]
+      },
+      "properties": {
+        "name": "Bačiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4775,
+          48.498611111
+        ]
+      },
+      "properties": {
+        "name": "Beleluja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62,
+          49.596666666
+        ]
+      },
+      "properties": {
+        "name": "Bilka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.383611111,
+          48.963611111
+        ]
+      },
+      "properties": {
+        "name": "Berežnyca",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.149166666,
+          49.455833333
+        ]
+      },
+      "properties": {
+        "name": "Berezdivci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.672777777,
+          49.6
+        ]
+      },
+      "properties": {
+        "name": "Berezec’",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2475,
+          48.964166666
+        ]
+      },
+      "properties": {
+        "name": "Berlogy",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.325,
+          49.535555555
+        ]
+      },
+      "properties": {
+        "name": "Bertyšiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.895,
+          49.629444444
+        ]
+      },
+      "properties": {
+        "name": "Bibščany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.155833333,
+          49.538888888
+        ]
+      },
+      "properties": {
+        "name": "Biskovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.908010663,
+          49.557510858
+        ]
+      },
+      "properties": {
+        "name": "Bišče",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.157777777,
+          49.421111111
+        ]
+      },
+      "properties": {
+        "name": "Blaživ",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.631388888,
+          49.111111111
+        ]
+      },
+      "properties": {
+        "name": "Bljudnyky ",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.068333333,
+          49.000277777
+        ]
+      },
+      "properties": {
+        "name": "Bobrivnyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.065555555,
+          49.682222222
+        ]
+      },
+      "properties": {
+        "name": "Boljanovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.035277777,
+          48.768888888
+        ]
+      },
+      "properties": {
+        "name": "Bortnyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.766111111,
+          49.328888888
+        ]
+      },
+      "properties": {
+        "name": "Boryčivka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.181666666,
+          49.682777777
+        ]
+      },
+      "properties": {
+        "name": "Bud’kiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.968333333,
+          48.969166666
+        ]
+      },
+      "properties": {
+        "name": "Bukivna",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.027173567,
+          49.321156655
+        ]
+      },
+      "properties": {
+        "name": "Bucyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.858888888,
+          49.646388888
+        ]
+      },
+      "properties": {
+        "name": "Byblo",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2275,
+          49.255
+        ]
+      },
+      "properties": {
+        "name": "Bystrycja-Girs’ka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.876666666,
+          49.137222222
+        ]
+      },
+      "properties": {
+        "name": "Byšiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.384722222,
+          49.473333333
+        ]
+      },
+      "properties": {
+        "name": "Velyka Ozymyna",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.845,
+          49.496111111
+        ]
+      },
+      "properties": {
+        "name": "Velyka Sušycja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2325,
+          49.616666666
+        ]
+      },
+      "properties": {
+        "name": "Velyki Hlibovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.990833333,
+          49.156944444
+        ]
+      },
+      "properties": {
+        "name": "Didušyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.465555555,
+          49.793055555
+        ]
+      },
+      "properties": {
+        "name": "Velykyj Poljuchiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.465555555,
+          49.793055555
+        ]
+      },
+      "properties": {
+        "name": "Poljuchiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.286111111,
+          49.9925
+        ]
+      },
+      "properties": {
+        "name": "Velyke Kolodno",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.424444444,
+          49.994722222
+        ]
+      },
+      "properties": {
+        "name": "Velykosilky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.898611111,
+          49.543055555
+        ]
+      },
+      "properties": {
+        "name": "Verbiž",
+        "region": "Halyč;L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.605,
+          49.389444444
+        ]
+      },
+      "properties": {
+        "name": "Verbylivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.402777777,
+          49.375833333
+        ]
+      },
+      "properties": {
+        "name": "Verbicja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.626944444,
+          48.808333333
+        ]
+      },
+      "properties": {
+        "name": "Verbka",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.656111111,
+          49.313333333
+        ]
+      },
+      "properties": {
+        "name": "Gaje",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.613611111,
+          49.160277777
+        ]
+      },
+      "properties": {
+        "name": "Verchnja Stynava ",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.899166666,
+          49.261944444
+        ]
+      },
+      "properties": {
+        "name": "Verčany",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.236944444,
+          49.703611111
+        ]
+      },
+      "properties": {
+        "name": "Vidnyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.236944444,
+          49.703611111
+        ]
+      },
+      "properties": {
+        "name": "Widnyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.281388888,
+          49.405555555
+        ]
+      },
+      "properties": {
+        "name": "Vynnyky",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.138055555,
+          49.744166666
+        ]
+      },
+      "properties": {
+        "name": "Davydiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.073611111,
+          49.712777777
+        ]
+      },
+      "properties": {
+        "name": "Vovkiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.675277777,
+          48.728611111
+        ]
+      },
+      "properties": {
+        "name": "Volosiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.603333333,
+          49.502777777
+        ]
+      },
+      "properties": {
+        "name": "Woloszcza",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.395277777,
+          48.473055555
+        ]
+      },
+      "properties": {
+        "name": "Vovčkivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.638055555,
+          49.414444444
+        ]
+      },
+      "properties": {
+        "name": "Voroblevyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.089722222,
+          49.558055555
+        ]
+      },
+      "properties": {
+        "name": "Vojutyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.415277777,
+          49.806111111
+        ]
+      },
+      "properties": {
+        "name": "Wyžnjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.720833333,
+          48.688888888
+        ]
+      },
+      "properties": {
+        "name": "Havrylivka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.929126939,
+          49.039632244
+        ]
+      },
+      "properties": {
+        "name": "Hadynkivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.903611111,
+          49.525833333
+        ]
+      },
+      "properties": {
+        "name": "Haluščynci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.421111111,
+          49.710277777
+        ]
+      },
+      "properties": {
+        "name": "Hanačivka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.958537388,
+          49.512631927
+        ]
+      },
+      "properties": {
+        "name": "Hynovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.750223763,
+          48.777361572
+        ]
+      },
+      "properties": {
+        "name": "Hyn’kivci",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.978953567,
+          49.346492595
+        ]
+      },
+      "properties": {
+        "name": "Hlibiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89956,
+          50.06033
+        ]
+      },
+      "properties": {
+        "name": "Hlins’k",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.568611111,
+          49.740555555
+        ]
+      },
+      "properties": {
+        "name": "Hodvyšnja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.919166666,
+          49.764166666
+        ]
+      },
+      "properties": {
+        "name": "Hodovycja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.152777777,
+          49.189444444
+        ]
+      },
+      "properties": {
+        "name": "Holhoča",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.256111111,
+          49.008055555
+        ]
+      },
+      "properties": {
+        "name": "Holyn’",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.148055555,
+          48.875555555
+        ]
+      },
+      "properties": {
+        "name": "Horyhljady",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.148055555,
+          48.875555555
+        ]
+      },
+      "properties": {
+        "name": "Horlanthy (Horyhl\njady?)",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.63,
+          48.690833333
+        ]
+      },
+      "properties": {
+        "name": "Horodnycja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.927777777,
+          49.538055555
+        ]
+      },
+      "properties": {
+        "name": "Horodovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.927777777,
+          49.538055555
+        ]
+      },
+      "properties": {
+        "name": "Leszki",
+        "region": "L’viv; Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.294722222,
+          49.751944444
+        ]
+      },
+      "properties": {
+        "name": "Horodyslavyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.369166666,
+          50.005555555
+        ]
+      },
+      "properties": {
+        "name": "Horpyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.887777777,
+          49.034722222
+        ]
+      },
+      "properties": {
+        "name": "Hošiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.543333333,
+          49.692222222
+        ]
+      },
+      "properties": {
+        "name": "Hoszany",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.057222222,
+          48.813333333
+        ]
+      },
+      "properties": {
+        "name": "Hruška",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.275,
+          49.526388888
+        ]
+      },
+      "properties": {
+        "name": "Dev’jatnyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.363333333,
+          49.933333333
+        ]
+      },
+      "properties": {
+        "name": "Didyliv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.879166666,
+          49.239166666
+        ]
+      },
+      "properties": {
+        "name": "Dytjatyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727777777,
+          49.506944444
+        ]
+      },
+      "properties": {
+        "name": "Dyčkiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.36,
+          49.760555555
+        ]
+      },
+      "properties": {
+        "name": "Dmytrowice",
+        "region": "L’viv;Przemyśl;?; Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.848888888,
+          49.285833333
+        ]
+      },
+      "properties": {
+        "name": "Dnyestcowcze (Dnistryk?)",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.312777777,
+          48.793888888
+        ]
+      },
+      "properties": {
+        "name": "Struga",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.213333333,
+          49.156111111
+        ]
+      },
+      "properties": {
+        "name": "Dobrovody",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.704166666,
+          49.442777777
+        ]
+      },
+      "properties": {
+        "name": "Dobryniv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.867222222,
+          49.174444444
+        ]
+      },
+      "properties": {
+        "name": "Dovhe",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2,
+          48.864444444
+        ]
+      },
+      "properties": {
+        "name": "Dolyna",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.571944444,
+          49.7675
+        ]
+      },
+      "properties": {
+        "name": "Dolynjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.816666666,
+          49.230555555
+        ]
+      },
+      "properties": {
+        "name": "Duliby",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.823611111,
+          49.616666666
+        ]
+      },
+      "properties": {
+        "name": "Dunajiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.611111111,
+          49.532777777
+        ]
+      },
+      "properties": {
+        "name": "Dusaniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.001388888,
+          49.648888888
+        ]
+      },
+      "properties": {
+        "name": "Žabynja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.741944444,
+          49.245277777
+        ]
+      },
+      "properties": {
+        "name": "Žalybory",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.503055555,
+          49.844166666
+        ]
+      },
+      "properties": {
+        "name": "Ženiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.382691519,
+          49.02806151
+        ]
+      },
+      "properties": {
+        "name": "Žyznomyr",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.238333333,
+          49.9925
+        ]
+      },
+      "properties": {
+        "name": "Żółtańce",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.238333333,
+          49.9925
+        ]
+      },
+      "properties": {
+        "name": "Žovtanci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8,
+          49.713333333
+        ]
+      },
+      "properties": {
+        "name": "Žukiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.391944444,
+          49.813611111
+        ]
+      },
+      "properties": {
+        "name": "Žuravnyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.166481,
+          49.328108
+        ]
+      },
+      "properties": {
+        "name": "Zabolotivci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.028055555,
+          49.206388888
+        ]
+      },
+      "properties": {
+        "name": "Zavaliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.654722222,
+          48.9225
+        ]
+      },
+      "properties": {
+        "name": "Zahvizdja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.434275441,
+          49.865496238
+        ]
+      },
+      "properties": {
+        "name": "Zagir’ja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.042777777,
+          49.06
+        ]
+      },
+      "properties": {
+        "name": "Zadariv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.525,
+          49.3975
+        ]
+      },
+      "properties": {
+        "name": "Wacowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.964722222,
+          49.9725
+        ]
+      },
+      "properties": {
+        "name": "Zarudci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0455,
+          49.8703
+        ]
+      },
+      "properties": {
+        "name": "Zbojišča",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.136666666,
+          50.034444444
+        ]
+      },
+      "properties": {
+        "name": "Zibolky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.625555555,
+          49.302222222
+        ]
+      },
+      "properties": {
+        "name": "Zubiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.046666666,
+          49.769166666
+        ]
+      },
+      "properties": {
+        "name": "Zubra",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.705555555,
+          49.845277777
+        ]
+      },
+      "properties": {
+        "name": "Zušyci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.350402926,
+          49.406564225
+        ]
+      },
+      "properties": {
+        "name": "Iškiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.445277777,
+          48.706111111
+        ]
+      },
+      "properties": {
+        "name": "Kadejowce",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.306666666,
+          49.903611111
+        ]
+      },
+      "properties": {
+        "name": "Kalynivka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.736111111,
+          49.046388888
+        ]
+      },
+      "properties": {
+        "name": "Kalynivščyna",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.157044015,
+          49.37505955
+        ]
+      },
+      "properties": {
+        "name": "Kal’ne",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.368333333,
+          49.566388888
+        ]
+      },
+      "properties": {
+        "name": "Żabokruki",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.368333333,
+          49.566388888
+        ]
+      },
+      "properties": {
+        "name": "Żabokruki (Kvitneve)",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.869057522,
+          49.569102802
+        ]
+      },
+      "properties": {
+        "name": "Kydanci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.742777777,
+          49.224444444
+        ]
+      },
+      "properties": {
+        "name": "Kinašiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.195833333,
+          50.155
+        ]
+      },
+      "properties": {
+        "name": "Klekotiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.727222222,
+          49.631111111
+        ]
+      },
+      "properties": {
+        "name": "Klic’ko",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.366944444,
+          49.510833333
+        ]
+      },
+      "properties": {
+        "name": "Kniselo",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.459444444,
+          49.38
+        ]
+      },
+      "properties": {
+        "name": "Knjahynyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.255,
+          49.651666666
+        ]
+      },
+      "properties": {
+        "name": "Kniagynyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.906388888,
+          48.996944444
+        ]
+      },
+      "properties": {
+        "name": "Knjažoluka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.501111111,
+          49.625
+        ]
+      },
+      "properties": {
+        "name": "Kolbajevyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.735,
+          49.232222222
+        ]
+      },
+      "properties": {
+        "name": "Kolodnycja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.479166666,
+          49.301666666
+        ]
+      },
+      "properties": {
+        "name": "Kolokolyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.644722222,
+          49.075555555
+        ]
+      },
+      "properties": {
+        "name": "Komariv",
+        "region": "Halyč;Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.601111111,
+          49.613055555
+        ]
+      },
+      "properties": {
+        "name": "Konjušky Koroliv’ski",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.541111111,
+          49.539166666
+        ]
+      },
+      "properties": {
+        "name": "Korelyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.357777777,
+          49.540555555
+        ]
+      },
+      "properties": {
+        "name": "Kornalovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.890277777,
+          49.669166666
+        ]
+      },
+      "properties": {
+        "name": "Koropec’",
+        "region": "Halyč;L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.245672943,
+          48.885799427
+        ]
+      },
+      "properties": {
+        "name": "Kosmyryn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.035277777,
+          49.976666666
+        ]
+      },
+      "properties": {
+        "name": "Kostejiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.030277777,
+          49.061666666
+        ]
+      },
+      "properties": {
+        "name": "Krasijiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.97,
+          49.7175
+        ]
+      },
+      "properties": {
+        "name": "Krasnosil’ci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.152222222,
+          49.000833333
+        ]
+      },
+      "properties": {
+        "name": "Krechovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.085,
+          49.8475
+        ]
+      },
+      "properties": {
+        "name": "Kryvčyci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03,
+          49.461944444
+        ]
+      },
+      "properties": {
+        "name": "Krups’ke",
+        "region": "Halyč;L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.486111111,
+          49.104444444
+        ]
+      },
+      "properties": {
+        "name": "Krušel’nycja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.817777777,
+          50.3125
+        ]
+      },
+      "properties": {
+        "name": "Kulykiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.353333333,
+          49.745833333
+        ]
+      },
+      "properties": {
+        "name": "Kul’matyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          49.6525
+        ]
+      },
+      "properties": {
+        "name": "Kupnovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.426944444,
+          49.768888888
+        ]
+      },
+      "properties": {
+        "name": "Kurovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.751666666,
+          48.5475
+        ]
+      },
+      "properties": {
+        "name": "Lančyn",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89465879,
+          49.450395045
+        ]
+      },
+      "properties": {
+        "name": "Lisnyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.565277777,
+          49.867777777
+        ]
+      },
+      "properties": {
+        "name": "Lisnovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.356111111,
+          49.968333333
+        ]
+      },
+      "properties": {
+        "name": "Lisok",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.733611111,
+          49.396388888
+        ]
+      },
+      "properties": {
+        "name": "Letnja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.454166666,
+          49.377222222
+        ]
+      },
+      "properties": {
+        "name": "Lišnja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.123333333,
+          49.311666666
+        ]
+      },
+      "properties": {
+        "name": "Livčyci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.712777777,
+          49.643611111
+        ]
+      },
+      "properties": {
+        "name": "Litovka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.22,
+          49.375833333
+        ]
+      },
+      "properties": {
+        "name": "Lopušno",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.935833333,
+          49.228611111
+        ]
+      },
+      "properties": {
+        "name": "Lotatnyky",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.228611111,
+          49.3975
+        ]
+      },
+      "properties": {
+        "name": "Lukavycja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.017222222,
+          49.242222222
+        ]
+      },
+      "properties": {
+        "name": "Lysa",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.199444444,
+          49.191944444
+        ]
+      },
+      "properties": {
+        "name": "Lyskiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.886944444,
+          49.123055555
+        ]
+      },
+      "properties": {
+        "name": "Lisovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.070833333,
+          49.009444444
+        ]
+      },
+      "properties": {
+        "name": "Ljads’ke",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6975,
+          49.747222222
+        ]
+      },
+      "properties": {
+        "name": "Małkowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.364722222,
+          49.699722222
+        ]
+      },
+      "properties": {
+        "name": "Makuniv",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.268888888,
+          50.159444444
+        ]
+      },
+      "properties": {
+        "name": "Wielka i Mala Brodnica",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.365,
+          49.469166666
+        ]
+      },
+      "properties": {
+        "name": "Ozymyna",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.074444444,
+          49.947222222
+        ]
+      },
+      "properties": {
+        "name": "Dorošiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.777777777,
+          49.855277777
+        ]
+      },
+      "properties": {
+        "name": "Mal’čyci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.805277777,
+          48.831666666
+        ]
+      },
+      "properties": {
+        "name": "Markivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9925,
+          50.024722222
+        ]
+      },
+      "properties": {
+        "name": "Macošyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.790555555,
+          49.1275
+        ]
+      },
+      "properties": {
+        "name": "Mežyhirci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.034444444,
+          49.993333333
+        ]
+      },
+      "properties": {
+        "name": "Mervyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2575,
+          49.613055555
+        ]
+      },
+      "properties": {
+        "name": "Mistkovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.917222222,
+          48.966666666
+        ]
+      },
+      "properties": {
+        "name": "Myluvannja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.455,
+          49.720277777
+        ]
+      },
+      "properties": {
+        "name": "Myl’čyci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.476666666,
+          49.761944444
+        ]
+      },
+      "properties": {
+        "name": "Myljatyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.491666666,
+          49.312777777
+        ]
+      },
+      "properties": {
+        "name": "Modryči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.951388888,
+          50.015833333
+        ]
+      },
+      "properties": {
+        "name": "Mokrotyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.336111111,
+          49.2125
+        ]
+      },
+      "properties": {
+        "name": "Monastyrec’",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.457222222,
+          48.714444444
+        ]
+      },
+      "properties": {
+        "name": "Monastyrčany",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.706944444,
+          50.180833333
+        ]
+      },
+      "properties": {
+        "name": "Monastyrok-Ohlja-\ndivc’skyj",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.856111111,
+          49.248888888
+        ]
+      },
+      "properties": {
+        "name": "Bibil",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.249166666,
+          48.889722222
+        ]
+      },
+      "properties": {
+        "name": "Nahirne",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.107777777,
+          50.016388888
+        ]
+      },
+      "properties": {
+        "name": "Nahirci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.775,
+          49.529166666
+        ]
+      },
+      "properties": {
+        "name": "Narajiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.602222222,
+          49.295555555
+        ]
+      },
+      "properties": {
+        "name": "Nastašyne",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.011111111,
+          48.492222222
+        ]
+      },
+      "properties": {
+        "name": "Нижній Ве́рбіж",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.038055555,
+          49.026666666
+        ]
+      },
+      "properties": {
+        "name": "Nyz’kolyzy",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.751111111,
+          48.886944444
+        ]
+      },
+      "properties": {
+        "name": "Mikaitincze",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.751111111,
+          48.886944444
+        ]
+      },
+      "properties": {
+        "name": "Mykytinci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8025,
+          49.643888888
+        ]
+      },
+      "properties": {
+        "name": "Nykonkovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.595555555,
+          49.206944444
+        ]
+      },
+      "properties": {
+        "name": "Mogil’nica",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.448561828,
+          48.946687002
+        ]
+      },
+      "properties": {
+        "name": "Novosilka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.418611111,
+          49.468611111
+        ]
+      },
+      "properties": {
+        "name": "Nowošyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.303333333,
+          49.901944444
+        ]
+      },
+      "properties": {
+        "name": "Jaryčiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.009444444,
+          49.233611111
+        ]
+      },
+      "properties": {
+        "name": "Nosiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.084654263,
+          49.65260865
+        ]
+      },
+      "properties": {
+        "name": "Ozerjanka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.136388888,
+          48.836388888
+        ]
+      },
+      "properties": {
+        "name": "Oleša",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.236666666,
+          49.445555555
+        ]
+      },
+      "properties": {
+        "name": "Vil’šanyk",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.335833333,
+          49.501944444
+        ]
+      },
+      "properties": {
+        "name": "Oryszkowce",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.303888888,
+          49.86
+        ]
+      },
+      "properties": {
+        "name": "Oselja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36791791,
+          49.155853952
+        ]
+      },
+      "properties": {
+        "name": "Osivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.715833333,
+          49.389444444
+        ]
+      },
+      "properties": {
+        "name": "Ostal’ci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.295555555,
+          48.641944444
+        ]
+      },
+      "properties": {
+        "name": "Ostrivec’",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9625,
+          48.928333333
+        ]
+      },
+      "properties": {
+        "name": "Ostrynja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.968333333,
+          49.183611111
+        ]
+      },
+      "properties": {
+        "name": "Panovyči",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1581,
+          49.7928
+        ]
+      },
+      "properties": {
+        "name": "Perepel’nyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.32473,
+          49.42449
+        ]
+      },
+      "properties": {
+        "name": "Hoczew",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.966666666,
+          50.7
+        ]
+      },
+      "properties": {
+        "name": "Szczebrzeszyn",
+        "region": "Chełm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.001111111,
+          48.981666666
+        ]
+      },
+      "properties": {
+        "name": "Petryliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.621944444,
+          50.499444444
+        ]
+      },
+      "properties": {
+        "name": "Pečychvosty",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.239166666,
+          49.866666666
+        ]
+      },
+      "properties": {
+        "name": "Pykulovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731666666,
+          49.279444444
+        ]
+      },
+      "properties": {
+        "name": "Plebanivka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.942777777,
+          49.747777777
+        ]
+      },
+      "properties": {
+        "name": "Pleszowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.942777777,
+          49.747777777
+        ]
+      },
+      "properties": {
+        "name": "Pleševyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944808812,
+          49.595966648
+        ]
+      },
+      "properties": {
+        "name": "Plichiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.139722222,
+          49.706944444
+        ]
+      },
+      "properties": {
+        "name": "Pnikut",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.558888888,
+          49.596666666
+        ]
+      },
+      "properties": {
+        "name": "Pohirci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.132661003,
+          49.649213107
+        ]
+      },
+      "properties": {
+        "name": "Pohribci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.218055555,
+          49.806666666
+        ]
+      },
+      "properties": {
+        "name": "Pidberizci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.230833333,
+          48.801666666
+        ]
+      },
+      "properties": {
+        "name": "Pidverbci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.655833333,
+          49.423333333
+        ]
+      },
+      "properties": {
+        "name": "Pidvynnja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.510833333,
+          48.791666666
+        ]
+      },
+      "properties": {
+        "name": "Lachowce",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5125,
+          49.893611111
+        ]
+      },
+      "properties": {
+        "name": "Pidluby",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.456111111,
+          49.332777777
+        ]
+      },
+      "properties": {
+        "name": "Pidmychajlivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.229444444,
+          49.666666666
+        ]
+      },
+      "properties": {
+        "name": "Pidmonastyr",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.580833333,
+          49.578055555
+        ]
+      },
+      "properties": {
+        "name": "Podil’ci",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.069722222,
+          49.176944444
+        ]
+      },
+      "properties": {
+        "name": "Balicze",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.353333333,
+          49.753611111
+        ]
+      },
+      "properties": {
+        "name": "Pidsosniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.673333333,
+          49.581388888
+        ]
+      },
+      "properties": {
+        "name": "Podusiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.361388888,
+          49.733888888
+        ]
+      },
+      "properties": {
+        "name": "Pid’jarkiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.994166666,
+          49.742777777
+        ]
+      },
+      "properties": {
+        "name": "Rykow",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9307,
+          49.64092
+        ]
+      },
+      "properties": {
+        "name": "Pomorjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9094,
+          49.7336
+        ]
+      },
+      "properties": {
+        "name": "Popowice = Popovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.768333333,
+          49.876944444
+        ]
+      },
+      "properties": {
+        "name": "Porzecze",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.235,
+          49.377222222
+        ]
+      },
+      "properties": {
+        "name": "Postolivka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.581666666,
+          49.417222222
+        ]
+      },
+      "properties": {
+        "name": "Potik",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.864687633,
+          49.588976997
+        ]
+      },
+      "properties": {
+        "name": "Potočany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.575555555,
+          49.360555555
+        ]
+      },
+      "properties": {
+        "name": "Počajeviče",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.997222222,
+          48.771666666
+        ]
+      },
+      "properties": {
+        "name": "Prybyliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.465833333,
+          49.884166666
+        ]
+      },
+      "properties": {
+        "name": "Prylbyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.650833333,
+          49.375555555
+        ]
+      },
+      "properties": {
+        "name": "Putjatynci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.484722222,
+          49.740833333
+        ]
+      },
+      "properties": {
+        "name": "Putjatyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.935,
+          49.37
+        ]
+      },
+      "properties": {
+        "name": "P’jatnyčany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.171666666,
+          49.727777777
+        ]
+      },
+      "properties": {
+        "name": "Radenyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.992777777,
+          49.6775
+        ]
+      },
+      "properties": {
+        "name": "Radochynci",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.472777777,
+          49.818611111
+        ]
+      },
+      "properties": {
+        "name": "Rozvorjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.301111111,
+          48.803055555
+        ]
+      },
+      "properties": {
+        "name": "Rakovec’",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.249722222,
+          49.508055555
+        ]
+      },
+      "properties": {
+        "name": "Ralivka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.839444444,
+          49.567777777
+        ]
+      },
+      "properties": {
+        "name": "Rekšyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.882777777,
+          49.72
+        ]
+      },
+      "properties": {
+        "name": "Remezivci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.063611111,
+          49.629166666
+        ]
+      },
+      "properties": {
+        "name": "Ritherowicze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.199444444,
+          49.364444444
+        ]
+      },
+      "properties": {
+        "name": "Rogizno",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.957222222,
+          49.608333333
+        ]
+      },
+      "properties": {
+        "name": "Rozhadiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.578333333,
+          49.46
+        ]
+      },
+      "properties": {
+        "name": "Ruda",
+        "region": "L’viv;Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.913611111,
+          49.448888888
+        ]
+      },
+      "properties": {
+        "name": "Rudnyky",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.902222222,
+          49.873055555
+        ]
+      },
+      "properties": {
+        "name": "Rzanssna",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.793055555,
+          48.569444444
+        ]
+      },
+      "properties": {
+        "name": "Sadžavka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.182777777,
+          48.960555555
+        ]
+      },
+      "properties": {
+        "name": "Svaryčiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.675,
+          49.278333333
+        ]
+      },
+      "properties": {
+        "name": "Semeniv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.745833333,
+          49.868333333
+        ]
+      },
+      "properties": {
+        "name": "Skvarjava",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9625,
+          49.535277777
+        ]
+      },
+      "properties": {
+        "name": "Felsztyn",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.380277777,
+          48.923055555
+        ]
+      },
+      "properties": {
+        "name": "Skomorochy",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7275,
+          49.126944444
+        ]
+      },
+      "properties": {
+        "name": "Skomoroše",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.234444444,
+          49.302777777
+        ]
+      },
+      "properties": {
+        "name": "Smogiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94,
+          49.735833333
+        ]
+      },
+      "properties": {
+        "name": "Snovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.961388888,
+          49.776944444
+        ]
+      },
+      "properties": {
+        "name": "Sokil’nyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03,
+          49.74
+        ]
+      },
+      "properties": {
+        "name": "Solonka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.975833333,
+          48.518888888
+        ]
+      },
+      "properties": {
+        "name": "Sopiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0,
+          50.043333333
+        ]
+      },
+      "properties": {
+        "name": "Sopošyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.947777777,
+          50.154444444
+        ]
+      },
+      "properties": {
+        "name": "Soroky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.845555555,
+          49.378333333
+        ]
+      },
+      "properties": {
+        "name": "Soroc’ke",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.020555555,
+          49.548611111
+        ]
+      },
+      "properties": {
+        "name": "Susidovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1125,
+          50.09028
+        ]
+      },
+      "properties": {
+        "name": "Kornice",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.839166666,
+          49.7575
+        ]
+      },
+      "properties": {
+        "name": "Stavčany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.556666666,
+          49.977222222
+        ]
+      },
+      "properties": {
+        "name": "Staryči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.785,
+          49.246388888
+        ]
+      },
+      "properties": {
+        "name": "Stare Skomorochy",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.424444444,
+          49.528333333
+        ]
+      },
+      "properties": {
+        "name": "Stari Strilyšča",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7625,
+          49.506388888
+        ]
+      },
+      "properties": {
+        "name": "Starjava",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250387096,
+          48.917227048
+        ]
+      },
+      "properties": {
+        "name": "Stinka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.363888888,
+          49.628888888
+        ]
+      },
+      "properties": {
+        "name": "Stoky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.278333333,
+          49.762777777
+        ]
+      },
+      "properties": {
+        "name": "Стоянці",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77,
+          49.89
+        ]
+      },
+      "properties": {
+        "name": "Stradč",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.683333333,
+          49.466666666
+        ]
+      },
+      "properties": {
+        "name": "Stratyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3225,
+          49.431388888
+        ]
+      },
+      "properties": {
+        "name": "Stupnycja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.466111111,
+          48.663333333
+        ]
+      },
+      "properties": {
+        "name": "Surza",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.016666666,
+          48.794722222
+        ]
+      },
+      "properties": {
+        "name": "Suchodil",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.031666666,
+          49.211388888
+        ]
+      },
+      "properties": {
+        "name": "Sychiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.751111111,
+          49.568888888
+        ]
+      },
+      "properties": {
+        "name": "Tataryniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.595555555,
+          49.1075
+        ]
+      },
+      "properties": {
+        "name": "Temyrivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.536111111,
+          49.230277777
+        ]
+      },
+      "properties": {
+        "name": "Tenetnyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.777222222,
+          49.468333333
+        ]
+      },
+      "properties": {
+        "name": "Terlo",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.796944444,
+          49.548333333
+        ]
+      },
+      "properties": {
+        "name": "Ternava",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.927222222,
+          50.022777777
+        ]
+      },
+      "properties": {
+        "name": "Terniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.118333333,
+          49.695555555
+        ]
+      },
+      "properties": {
+        "name": "Tovščiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.234722222,
+          48.925833333
+        ]
+      },
+      "properties": {
+        "name": "Topil’ske",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.940277777,
+          48.7325
+        ]
+      },
+      "properties": {
+        "name": "Torhovycja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.765,
+          49.132222222
+        ]
+      },
+      "properties": {
+        "name": "Tustan’",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47303,
+          48.91218
+        ]
+      },
+      "properties": {
+        "name": "Tuchla",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.541666666,
+          49.826388888
+        ]
+      },
+      "properties": {
+        "name": "Tučapy",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4275,
+          49.925833333
+        ]
+      },
+      "properties": {
+        "name": "Ubyni",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.967425112,
+          49.185924928
+        ]
+      },
+      "properties": {
+        "name": "Uvysla",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.415833333,
+          49.373611111
+        ]
+      },
+      "properties": {
+        "name": "Uniatycze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.952916666,
+          49.570722222
+        ]
+      },
+      "properties": {
+        "name": "Urman’",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.263888888,
+          49.383055555
+        ]
+      },
+      "properties": {
+        "name": "Uriž",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.964166666,
+          49.026944444
+        ]
+      },
+      "properties": {
+        "name": "Ustja-Zelene",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.674722222,
+          49.926666666
+        ]
+      },
+      "properties": {
+        "name": "Utiškiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.983055555,
+          48.386388888
+        ]
+      },
+      "properties": {
+        "name": "Utoropy",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.546666666,
+          49.641944444
+        ]
+      },
+      "properties": {
+        "name": "Uškovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.916666666,
+          49.893611111
+        ]
+      },
+      "properties": {
+        "name": "Ušnja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.415833333,
+          49.609444444
+        ]
+      },
+      "properties": {
+        "name": "Chlopčytzi",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.960555555,
+          49.293611111
+        ]
+      },
+      "properties": {
+        "name": "Chodovyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.282777777,
+          49.579444444
+        ]
+      },
+      "properties": {
+        "name": "Chodorkivci",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.837222222,
+          48.855277777
+        ]
+      },
+      "properties": {
+        "name": "Chom’jakivka",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.106666666,
+          48.757222222
+        ]
+      },
+      "properties": {
+        "name": "Chotymyr",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.854166666,
+          49.226111111
+        ]
+      },
+      "properties": {
+        "name": "Chochoniv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.375,
+          49.923055555
+        ]
+      },
+      "properties": {
+        "name": "Chreniv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.01993462,
+          49.156888388
+        ]
+      },
+      "properties": {
+        "name": "Celijv",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.099435867,
+          49.618146501
+        ]
+      },
+      "properties": {
+        "name": "Cecivka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.643055555,
+          48.733055555
+        ]
+      },
+      "properties": {
+        "name": "Cucyliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.521111111,
+          49.5975
+        ]
+      },
+      "properties": {
+        "name": "Čajkovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.028055555,
+          49.523055555
+        ]
+      },
+      "properties": {
+        "name": "Čapli",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.781666666,
+          49.663055555
+        ]
+      },
+      "properties": {
+        "name": "Chemeryntsi",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.876944444,
+          49.881388888
+        ]
+      },
+      "properties": {
+        "name": "Čeremošhja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.148888888,
+          49.718888888
+        ]
+      },
+      "properties": {
+        "name": "Čerepyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.717222222,
+          48.856944444
+        ]
+      },
+      "properties": {
+        "name": "Černijiv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.221944444,
+          49.415277777
+        ]
+      },
+      "properties": {
+        "name": "Čerchava",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.553333333,
+          49.429166666
+        ]
+      },
+      "properties": {
+        "name": "Čerče",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.725833333,
+          49.392222222
+        ]
+      },
+      "properties": {
+        "name": "Česnyky",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.938611111,
+          49.695555555
+        ]
+      },
+      "properties": {
+        "name": "Čyživ",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.168888888,
+          49.7975
+        ]
+      },
+      "properties": {
+        "name": "Čyšky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.736111111,
+          49.661111111
+        ]
+      },
+      "properties": {
+        "name": "Čulovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.956388888,
+          48.563611111
+        ]
+      },
+      "properties": {
+        "name": "Šeparivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.333611111,
+          49.711388888
+        ]
+      },
+      "properties": {
+        "name": "Šyšorovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.188888888,
+          49.738888888
+        ]
+      },
+      "properties": {
+        "name": "Šolomyn’",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.858333333,
+          49.736666666
+        ]
+      },
+      "properties": {
+        "name": "Špykolosy",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5175,
+          49.349722222
+        ]
+      },
+      "properties": {
+        "name": "Jawcze (bei Рогатин)",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.16877802,
+          49.740814067
+        ]
+      },
+      "properties": {
+        "name": "Jaroslawyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.950555555,
+          49.241944444
+        ]
+      },
+      "properties": {
+        "name": "Jarušyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.525277777,
+          48.623888888
+        ]
+      },
+      "properties": {
+        "name": "Jaseniv-Pil’nyj",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.921389,
+          49.933056
+        ]
+      },
+      "properties": {
+        "name": "Lubenia",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.045555555,
+          49.576666666
+        ]
+      },
+      "properties": {
+        "name": "Długie",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26301,
+          49.73596
+        ]
+      },
+      "properties": {
+        "name": "Biecz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3875,
+          49.3928
+        ]
+      },
+      "properties": {
+        "name": "Berezka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6,
+          51.25
+        ]
+      },
+      "properties": {
+        "name": "Bieniądzice",
+        "region": "Großpolen?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.97472222,
+          49.75111111
+        ]
+      },
+      "properties": {
+        "name": "Blizne",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66083333,
+          49.93805556
+        ]
+      },
+      "properties": {
+        "name": "Boratyn",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6333,
+          49.65
+        ]
+      },
+      "properties": {
+        "name": "Borysław",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66666667,
+          49.71666667
+        ]
+      },
+      "properties": {
+        "name": "Brylińce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.40805556,
+          49.84472222
+        ]
+      },
+      "properties": {
+        "name": "Bukowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.36944444,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Błaszkowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.36944444,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Błażkowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.68963,
+          49.55533
+        ]
+      },
+      "properties": {
+        "name": "Cergowa",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.68963,
+          49.55533
+        ]
+      },
+      "properties": {
+        "name": "Czergowa",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.59083333,
+          49.99166667
+        ]
+      },
+      "properties": {
+        "name": "Cieszacin",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6,
+          52.533333333
+        ]
+      },
+      "properties": {
+        "name": "Gniezno",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.622777777,
+          49.869166666
+        ]
+      },
+      "properties": {
+        "name": "Dobrostany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01666667,
+          49.61666667
+        ]
+      },
+      "properties": {
+        "name": "Jaćmierz",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.13333,
+          49.53333
+        ]
+      },
+      "properties": {
+        "name": "Prusiek",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.15,
+          49.55
+        ]
+      },
+      "properties": {
+        "name": "Sanoczek",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01283,
+          49.58178
+        ]
+      },
+      "properties": {
+        "name": "Zarszyn",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.61666667,
+          49.91666667
+        ]
+      },
+      "properties": {
+        "name": "Czelatyce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2897,
+          49.8098
+        ]
+      },
+      "properties": {
+        "name": "Czermna",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8,
+          49.45
+        ]
+      },
+      "properties": {
+        "name": "Hryciowa Wola",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.033333333,
+          48.516666666
+        ]
+      },
+      "properties": {
+        "name": "Kolomyja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.261388888,
+          52.2275
+        ]
+      },
+      "properties": {
+        "name": "Konin",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.633333333,
+          52.2
+        ]
+      },
+      "properties": {
+        "name": "Koło",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9,
+          49.96666667
+        ]
+      },
+      "properties": {
+        "name": "Dunkowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.51694444,
+          50.19777778
+        ]
+      },
+      "properties": {
+        "name": "Dębno",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.88333333,
+          49.73333333
+        ]
+      },
+      "properties": {
+        "name": "Fałków",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.493611111,
+          49.119444444
+        ]
+      },
+      "properties": {
+        "name": "Wojnyliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.443055555,
+          50.521666666
+        ]
+      },
+      "properties": {
+        "name": "Osiek",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.56666667,
+          49.96666667
+        ]
+      },
+      "properties": {
+        "name": "Glinik",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.545555555,
+          49.848055555
+        ]
+      },
+      "properties": {
+        "name": "Glinik Górny",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.50916667,
+          49.85222222
+        ]
+      },
+      "properties": {
+        "name": "Gogolów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8773,
+          49.9346
+        ]
+      },
+      "properties": {
+        "name": "Grabowiec",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94861111,
+          50.26055556
+        ]
+      },
+      "properties": {
+        "name": "Grzegorzowice Małe",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.81666667,
+          49.73333333
+        ]
+      },
+      "properties": {
+        "name": "Hermanow",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.444444444,
+          49.303333333
+        ]
+      },
+      "properties": {
+        "name": "Žuriv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.234722222,
+          49.282222222
+        ]
+      },
+      "properties": {
+        "name": "Ljubša",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.80333333,
+          49.80333333
+        ]
+      },
+      "properties": {
+        "name": "Buszkowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0,
+          49.95
+        ]
+      },
+      "properties": {
+        "name": "Hruszowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943055555,
+          49.784444444
+        ]
+      },
+      "properties": {
+        "name": "Strutyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.10535,
+          49.62283
+        ]
+      },
+      "properties": {
+        "name": "Pakoszówka",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.998888888,
+          50.041111111
+        ]
+      },
+      "properties": {
+        "name": "Rzeszów",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.966944444,
+          50.854166666
+        ]
+      },
+      "properties": {
+        "name": "Włoszczowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4186,
+          50.2655
+        ]
+      },
+      "properties": {
+        "name": "Leżajsk",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.48333333,
+          49.88333333
+        ]
+      },
+      "properties": {
+        "name": "Kamienica Górna",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.816666666,
+          52.65
+        ]
+      },
+      "properties": {
+        "name": "Oborniki",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.410833333,
+          49.857777777
+        ]
+      },
+      "properties": {
+        "name": "Klecie",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8167,
+          49.7167
+        ]
+      },
+      "properties": {
+        "name": "Koniuszki",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.739722222,
+          49.699166666
+        ]
+      },
+      "properties": {
+        "name": "Kormanice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16801,
+          50.03796
+        ]
+      },
+      "properties": {
+        "name": "Kreczkowa",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.81667,
+          49.50696
+        ]
+      },
+      "properties": {
+        "name": "Królik Polski",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7333,
+          50.8
+        ]
+      },
+      "properties": {
+        "name": "Kuchary",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7167,
+          49.8
+        ]
+      },
+      "properties": {
+        "name": "Kuńkowce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.019444444,
+          49.695277777
+        ]
+      },
+      "properties": {
+        "name": "Brzozów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.087777777,
+          49.746666666
+        ]
+      },
+      "properties": {
+        "name": "Krotošyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.38708,
+          52.08831
+        ]
+      },
+      "properties": {
+        "name": "Wiskitki",
+        "region": "Mazowien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3516528,
+          50.4370452
+        ]
+      },
+      "properties": {
+        "name": "Gyczyn (Jičín)",
+        "region": "Morawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08,
+          48.508611111
+        ]
+      },
+      "properties": {
+        "name": "Kornyč",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.666666666,
+          48.770555555
+        ]
+      },
+      "properties": {
+        "name": "Tysmenyčany",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75,
+          49.91666667
+        ]
+      },
+      "properties": {
+        "name": "Lutków",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9167,
+          49.9667
+        ]
+      },
+      "properties": {
+        "name": "Lutoryż",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.166111111,
+          49.964444444
+        ]
+      },
+      "properties": {
+        "name": "Sulymiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.70179,
+          49.48096
+        ]
+      },
+      "properties": {
+        "name": "Smil’nycja",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.82555556,
+          49.7025
+        ]
+      },
+      "properties": {
+        "name": "Malhowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.65165,
+          50.6784
+        ]
+      },
+      "properties": {
+        "name": "Malice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2167,
+          50.9333
+        ]
+      },
+      "properties": {
+        "name": "Marszowice",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5,
+          49.95
+        ]
+      },
+      "properties": {
+        "name": "Mała",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.13583,
+          49.59778
+        ]
+      },
+      "properties": {
+        "name": "Jurowce",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.901388888,
+          52.836666666
+        ]
+      },
+      "properties": {
+        "name": "Nieszawa",
+        "region": "Kujawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.80607,
+          49.75155
+        ]
+      },
+      "properties": {
+        "name": "Nehrybka",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75,
+          49.75
+        ]
+      },
+      "properties": {
+        "name": "Kamieniec/Odrzykoń (bei Krosno)",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.57227,
+          50.02175
+        ]
+      },
+      "properties": {
+        "name": "Ożańsk",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.224166666,
+          49.920833333
+        ]
+      },
+      "properties": {
+        "name": "Zapytiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.78333333,
+          49.75
+        ]
+      },
+      "properties": {
+        "name": "Pikulice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.749166666,
+          48.819166666
+        ]
+      },
+      "properties": {
+        "name": "Slobidka-Rachnivs’ka",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.67776,
+          50.01623
+        ]
+      },
+      "properties": {
+        "name": "Jarosław",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.570277777,
+          49.631944444
+        ]
+      },
+      "properties": {
+        "name": "Novyj Ostriv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.65,
+          50.18333333
+        ]
+      },
+      "properties": {
+        "name": "Przemyków",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.173055555,
+          49.9875
+        ]
+      },
+      "properties": {
+        "name": "Zvertiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.858611111,
+          49.296944444
+        ]
+      },
+      "properties": {
+        "name": "Dobrivljany",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.386666666,
+          49.536944444
+        ]
+      },
+      "properties": {
+        "name": "Hordynia",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.360277777,
+          49.987777777
+        ]
+      },
+      "properties": {
+        "name": "Vyriv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75457,
+          49.60933
+        ]
+      },
+      "properties": {
+        "name": "Rogi",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.935,
+          49.134166666
+        ]
+      },
+      "properties": {
+        "name": "Zaderevač",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.45,
+          49.91666667
+        ]
+      },
+      "properties": {
+        "name": "Rączyna",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75861111,
+          49.54916667
+        ]
+      },
+      "properties": {
+        "name": "Gorky",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3225,
+          49.79235
+        ]
+      },
+      "properties": {
+        "name": "Sielnica",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.759722222,
+          49.655277777
+        ]
+      },
+      "properties": {
+        "name": "Sierakośce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.324444444,
+          50.747777777
+        ]
+      },
+      "properties": {
+        "name": "Luc’k",
+        "region": "Wolhynien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5,
+          49.73333333
+        ]
+      },
+      "properties": {
+        "name": "Sobniów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.875,
+          49.90027778
+        ]
+      },
+      "properties": {
+        "name": "Sośnica",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1667,
+          49.6
+        ]
+      },
+      "properties": {
+        "name": "Srogów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.191666666,
+          49.703611111
+        ]
+      },
+      "properties": {
+        "name": "Stare Selo",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8167,
+          50.5333
+        ]
+      },
+      "properties": {
+        "name": "Służów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6333,
+          49.7833
+        ]
+      },
+      "properties": {
+        "name": "Tarnawce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.627222222,
+          49.768055555
+        ]
+      },
+      "properties": {
+        "name": "Mytulyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2172,
+          49.6914
+        ]
+      },
+      "properties": {
+        "name": "Temeszów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.72505,
+          49.55019
+        ]
+      },
+      "properties": {
+        "name": "Jasionka",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75,
+          49.433333333
+        ]
+      },
+      "properties": {
+        "name": "Medenyči",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.331388888,
+          48.96
+        ]
+      },
+      "properties": {
+        "name": "Novica",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.331388888,
+          48.96
+        ]
+      },
+      "properties": {
+        "name": "Novicja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.002777777,
+          50.590555555
+        ]
+      },
+      "properties": {
+        "name": "Szydłów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943643614,
+          49.44642725
+        ]
+      },
+      "properties": {
+        "name": "Berežany",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4509,
+          50.23623
+        ]
+      },
+      "properties": {
+        "name": "Wierzawice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.695555555,
+          49.625
+        ]
+      },
+      "properties": {
+        "name": "Nowy Sącz",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7333,
+          49.7333
+        ]
+      },
+      "properties": {
+        "name": "Witoszyńce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8833,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Wyszatyce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7822,
+          49.9039
+        ]
+      },
+      "properties": {
+        "name": "Zabłotce",
+        "region": "Przemyśl;L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2667,
+          49.3833
+        ]
+      },
+      "properties": {
+        "name": "Zahoczewie",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75,
+          49.9333
+        ]
+      },
+      "properties": {
+        "name": "Zamiechów",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8,
+          49.92
+        ]
+      },
+      "properties": {
+        "name": "Zamojsce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.533333333,
+          50.5
+        ]
+      },
+      "properties": {
+        "name": "Baranów Sandomierski",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.13021,
+          49.47281
+        ]
+      },
+      "properties": {
+        "name": "Łopuszna",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16781,
+          49.81115
+        ]
+      },
+      "properties": {
+        "name": "Łubno",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.37005,
+          50.32508
+        ]
+      },
+      "properties": {
+        "name": "Lukowa",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7333,
+          49.9167
+        ]
+      },
+      "properties": {
+        "name": "Łysa Góra",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.87517,
+          52.30795
+        ]
+      },
+      "properties": {
+        "name": "Łęczyca",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7006,
+          49.8111
+        ]
+      },
+      "properties": {
+        "name": "Łętownia",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8,
+          49.6333
+        ]
+      },
+      "properties": {
+        "name": "Leżany",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          51.2167
+        ]
+      },
+      "properties": {
+        "name": "Świerże",
+        "region": "Chełm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49949,
+          50.0137
+        ]
+      },
+      "properties": {
+        "name": "Żurawiczki",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7651672,
+          49.6936989
+        ]
+      },
+      "properties": {
+        "name": "Krosno",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.491388888,
+          48.710555555
+        ]
+      },
+      "properties": {
+        "name": "Starunja",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.387222222,
+          49.064722222
+        ]
+      },
+      "properties": {
+        "name": "Bučač",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.943611111,
+          49.9
+        ]
+      },
+      "properties": {
+        "name": "Brjuchovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.513888888,
+          49.037777777
+        ]
+      },
+      "properties": {
+        "name": "Skole",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.54686,
+          50.05615
+        ]
+      },
+      "properties": {
+        "name": "Rozbórz",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.925277777,
+          50.672222222
+        ]
+      },
+      "properties": {
+        "name": "Opole",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.916666666,
+          50.8
+        ]
+      },
+      "properties": {
+        "name": "Hrubieszów",
+        "region": "Chełm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7494,
+          49.7358
+        ]
+      },
+      "properties": {
+        "name": "Grochowce",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.027222222,
+          49.611944444
+        ]
+      },
+      "properties": {
+        "name": "Hodiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7,
+          49.65
+        ]
+      },
+      "properties": {
+        "name": "Huwniki",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.643611111,
+          49.782222222
+        ]
+      },
+      "properties": {
+        "name": "Horodok",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.122991388,
+          50.155600888
+        ]
+      },
+      "properties": {
+        "name": "Lubaczów",
+        "region": "Bełz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03,
+          49.154444444
+        ]
+      },
+      "properties": {
+        "name": "Turka",
+        "region": "Halyč;Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03333,
+          50.88333
+        ]
+      },
+      "properties": {
+        "name": "Horodło",
+        "region": "Bełz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.454002,
+          49.275217
+        ]
+      },
+      "properties": {
+        "name": "Tustanowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.99333,
+          49.63533
+        ]
+      },
+      "properties": {
+        "name": "Wzdów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.674166666,
+          50.348611111
+        ]
+      },
+      "properties": {
+        "name": "Wiślica",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.41141,
+          50.05146
+        ]
+      },
+      "properties": {
+        "name": "Dębica",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.30328,
+          49.81575
+        ]
+      },
+      "properties": {
+        "name": "Verchnja Bilka",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.234166666,
+          49.711388888
+        ]
+      },
+      "properties": {
+        "name": "Podliski",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.220833333,
+          50.921388888
+        ]
+      },
+      "properties": {
+        "name": "Kraśnik",
+        "region": "Kleinpolen;Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49408,
+          50.05912
+        ]
+      },
+      "properties": {
+        "name": "Przeworsk",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.898055555,
+          52.605
+        ]
+      },
+      "properties": {
+        "name": "Brześć Kujawski",
+        "region": "Kujawien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.429166666,
+          49.916666666
+        ]
+      },
+      "properties": {
+        "name": "Smarzowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.217222222,
+          50.033888888
+        ]
+      },
+      "properties": {
+        "name": "Niepołomice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.683333333,
+          52.166666666
+        ]
+      },
+      "properties": {
+        "name": "Pyzdry",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.583611111,
+          50.590555555
+        ]
+      },
+      "properties": {
+        "name": "Koprzywnica",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8979,
+          49.66152
+        ]
+      },
+      "properties": {
+        "name": "Haczów",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.133333333,
+          49.383333333
+        ]
+      },
+      "properties": {
+        "name": "Žydačiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.309444444,
+          49.41
+        ]
+      },
+      "properties": {
+        "name": "Chodoriv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.129722222,
+          49.815555555
+        ]
+      },
+      "properties": {
+        "name": "Wynnyky",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.516666666,
+          49.823333333
+        ]
+      },
+      "properties": {
+        "name": "Hlinjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.516666666,
+          49.823333333
+        ]
+      },
+      "properties": {
+        "name": "Gljnjany",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.599722222,
+          49.403888888
+        ]
+      },
+      "properties": {
+        "name": "Babincze",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.533333333,
+          50.5
+        ]
+      },
+      "properties": {
+        "name": "Baranów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.652777777,
+          49.540555555
+        ]
+      },
+      "properties": {
+        "name": "Bačin",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.73056,
+          49.68139
+        ]
+      },
+      "properties": {
+        "name": "Berendinowycze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24027778,
+          50.28416667
+        ]
+      },
+      "properties": {
+        "name": "Bierawa",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.155833333,
+          49.538888888
+        ]
+      },
+      "properties": {
+        "name": "Bischkowice",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.757222222,
+          49.548055555
+        ]
+      },
+      "properties": {
+        "name": "Czyrlenow",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12217,
+          50.80964
+        ]
+      },
+      "properties": {
+        "name": "Częstochowa",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.866944444,
+          49.105833333
+        ]
+      },
+      "properties": {
+        "name": "Dalieiow",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33333333,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Dembowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.46,
+          49.68361111
+        ]
+      },
+      "properties": {
+        "name": "Dembowiec",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.79583333,
+          50.99666667
+        ]
+      },
+      "properties": {
+        "name": "Denków",
+        "region": "Schlesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.386388888,
+          50.205555555
+        ]
+      },
+      "properties": {
+        "name": "Dobrowtricz",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.33305556,
+          52.96694444
+        ]
+      },
+      "properties": {
+        "name": "Dobrzyń",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.913,
+          50.09564
+        ]
+      },
+      "properties": {
+        "name": "Dorf zwischen den Flüssen Mrowla und Czarna",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.466666666,
+          51.45
+        ]
+      },
+      "properties": {
+        "name": "Drzewica",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.39117,
+          49.82608
+        ]
+      },
+      "properties": {
+        "name": "Dubiecko",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.54111111,
+          51.23138889
+        ]
+      },
+      "properties": {
+        "name": "Dąbrowa",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33333333,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Dębowa",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.380555555,
+          48.701111111
+        ]
+      },
+      "properties": {
+        "name": "Fredowce",
+        "region": "Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.98329,
+          48.33197
+        ]
+      },
+      "properties": {
+        "name": "Gesioro",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.125277777,
+          49.528888888
+        ]
+      },
+      "properties": {
+        "name": "Gilów",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.871666666,
+          49.245
+        ]
+      },
+      "properties": {
+        "name": "Gobiliv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.919166666,
+          49.764166666
+        ]
+      },
+      "properties": {
+        "name": "Godovyčja",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.425555555,
+          48.951944444
+        ]
+      },
+      "properties": {
+        "name": "Guozdzicza",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.195277777,
+          49.670555555
+        ]
+      },
+      "properties": {
+        "name": "Hlypli",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.721388888,
+          49.751944444
+        ]
+      },
+      "properties": {
+        "name": "Hologory",
+        "region": "L’viv;Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.281666666,
+          49.438611111
+        ]
+      },
+      "properties": {
+        "name": "Horodyšče",
+        "region": "L’viv;Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2,
+          49.7
+        ]
+      },
+      "properties": {
+        "name": "Iablonow",
+        "region": "Sanok;Podolien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.620833333,
+          49.564444444
+        ]
+      },
+      "properties": {
+        "name": "Ianczyn",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.433333333,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Ianuszkowice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.21667,
+          51.51667
+        ]
+      },
+      "properties": {
+        "name": "Inowłódź",
+        "region": "Großpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.341388888,
+          49.800555555
+        ]
+      },
+      "properties": {
+        "name": "Irmanow",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.45,
+          49.78333333
+        ]
+      },
+      "properties": {
+        "name": "Iskań",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.433333333,
+          49.85
+        ]
+      },
+      "properties": {
+        "name": "Januszkowicze",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.218055555,
+          49.656944444
+        ]
+      },
+      "properties": {
+        "name": "Jatvjagy",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.35,
+          51.45
+        ]
+      },
+      "properties": {
+        "name": "Jedlnia",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.345,
+          49.574444444
+        ]
+      },
+      "properties": {
+        "name": "Kamienica",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.944722222,
+          50.051666666
+        ]
+      },
+      "properties": {
+        "name": "Kazimierz",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.566666666,
+          49.3
+        ]
+      },
+      "properties": {
+        "name": "Kolpecz",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.645833333,
+          50.786111111
+        ]
+      },
+      "properties": {
+        "name": "Koniecpole",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51666667,
+          50.65694444
+        ]
+      },
+      "properties": {
+        "name": "Korytnica",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.020833333,
+          48.673055555
+        ]
+      },
+      "properties": {
+        "name": "Korzewa",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.177777777,
+          49.460277777
+        ]
+      },
+      "properties": {
+        "name": "Cothkowicze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0333,
+          52.2167
+        ]
+      },
+      "properties": {
+        "name": "Kotków",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.551111111,
+          51.585555555
+        ]
+      },
+      "properties": {
+        "name": "Kozienice",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.153888888,
+          49.685277777
+        ]
+      },
+      "properties": {
+        "name": "Krukienicze",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.666168,
+          48.900838
+        ]
+      },
+      "properties": {
+        "name": "Krychivci",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.17888889,
+          52.2375
+        ]
+      },
+      "properties": {
+        "name": "Krzewie",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36532889,
+          49.190922124
+        ]
+      },
+      "properties": {
+        "name": "Kudaniv",
+        "region": "Halyč"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.32772,
+          49.73391
+        ]
+      },
+      "properties": {
+        "name": "Kunowa",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.185,
+          51.389444444
+        ]
+      },
+      "properties": {
+        "name": "Kurów",
+        "region": "Kleinpolen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.765555555,
+          49.802777777
+        ]
+      },
+      "properties": {
+        "name": "Lackie",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.937222222,
+          49.521111111
+        ]
+      },
+      "properties": {
+        "name": "Leszki (an Городовичі grenzend)",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43,
+          49.14777778
+        ]
+      },
+      "properties": {
+        "name": "Liptov",
+        "region": "Ungarn "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.83027778,
+          53.01861111
+        ]
+      },
+      "properties": {
+        "name": "Lossya",
+        "region": "Mazowien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.210277777,
+          49.921666666
+        ]
+      },
+      "properties": {
+        "name": "Lubien",
+        "region": "Przemyśl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6844,
+          50.66897
+        ]
+      },
+      "properties": {
+        "name": "Lubliniec",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.119722222,
+          49.838055555
+        ]
+      },
+      "properties": {
+        "name": "Lyssnicze",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0753,
+          49.8817
+        ]
+      },
+      "properties": {
+        "name": "Malechiv",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.950555555,
+          49.752222222
+        ]
+      },
+      "properties": {
+        "name": "Malečkovyči",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4833,
+          49.5667
+        ]
+      },
+      "properties": {
+        "name": "Maszkowice",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6975,
+          49.747222222
+        ]
+      },
+      "properties": {
+        "name": "Mavkovnički",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.493611111,
+          49.860277777
+        ]
+      },
+      "properties": {
+        "name": "Mižylobyčy",
+        "region": "L’viv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0375,
+          50.072222222
+        ]
+      },
+      "properties": {
+        "name": "Mogiła",
+        "region": "?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.194444444,
+          49.388333333
+        ]
+      },
+      "properties": {
+        "name": "Monasterzec",
+        "region": "Sanok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.33388889,
+          51.65777778
+        ]
+      },
+      "properties": {
+        "name": "Mroczkowice",
+        "region": "Mazowien?"
+      }
+    }
+  ]
+}
