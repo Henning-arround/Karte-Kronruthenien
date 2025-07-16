@@ -35,6 +35,28 @@ function initMap() {
     // Vollbild-Kontrolle hinzufügen
     map.addControl(new L.Control.Fullscreen());
     
+    // Home-Button zur Karte hinzufügen
+    L.Control.homeButton = L.Control.extend({
+        options: {
+            position: 'topleft'
+        },
+        onAdd: function (map) {
+            const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
+            const button = L.DomUtil.create('a', 'leaflet-bar-part', container);
+            button.innerHTML = '<svg style="width:18px;height:18px;display:block;margin-top:5px;" viewBox="0 0 24 24"><path fill="currentColor" d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" /></svg>';
+            button.href = '#';
+            button.title = 'Zurück zur Startansicht';
+            
+            L.DomEvent.on(button, 'click', function(e) {
+                L.DomEvent.preventDefault(e);
+                map.setView(CONFIG.CENTER, CONFIG.ZOOM);
+            });
+
+            return container;
+        }
+    });
+    map.addControl(new L.Control.homeButton());
+    
     // Zoom-Event-Listener für dynamische Marker-Größe
     map.on('zoomend', updateMarkerSizes);
 }
@@ -332,7 +354,7 @@ L.Control.Fullscreen = L.Control.extend({
         
         button.href = '#';
         button.title = 'Vollbild';
-        button.innerHTML = '⛶';
+        button.innerHTML = '<svg style="width:18px;height:18px;" viewBox="0 0 24 24"><path fill="currentColor" d="M3,9H5V5H9V3H3V9M21,3V9H19V5H15V3H21M3,15H5V19H9V21H3V15M19,19H15V21H21V15H19V19Z" /></svg>';
         
         L.DomEvent.on(button, 'click', function(e) {
             L.DomEvent.preventDefault(e);

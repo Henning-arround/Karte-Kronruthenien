@@ -98,3 +98,19 @@ body {
     transform: scale(1.2);
     box-shadow: 0 3px 6px rgba(0,0,0,0.4) !important;
 }
+
+/* Anpassungen für Leaflet Control Buttons */
+.leaflet-bar a,
+.leaflet-bar a:hover {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+}
+
+.leaflet-bar a svg {
+    width: 20px;
+    height: 20px;
+    fill: #333;
+}
