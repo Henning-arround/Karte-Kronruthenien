@@ -2,15 +2,15 @@
 
 Eine interaktive Webkarte zur Visualisierung historischer Orte in Kronruthenien basierend auf Wikidata-Informationen.
 
-## 🗺️ Übersicht
+## Übersicht
 
 Dieses Projekt erstellt eine interaktive Karte, die historische Orte in Kronruthenien visualisiert. Die Daten werden aus einer Excel-Datei extrahiert, über Wikidata mit Koordinaten angereichert und als GeoJSON-Datei gespeichert. Die Webanwendung zeigt diese Orte dann auf einer OpenStreetMap-Karte an, wobei verschiedene Regionen durch unterschiedliche Farben gekennzeichnet sind.
 
-## 🚀 Live-Demo
+## Live-Demo
 
-Die Karte ist verfügbar unter: [GitHub Pages Link einfügen]
+Die Karte ist verfügbar unter: [https://Henning-arround.github.io/Karte-Kronruthenien/]
 
-## 📋 Funktionen
+## Funktionen
 
 - **Interaktive Karte**: Basierend auf OpenStreetMap mit Leaflet.js
 - **Farbkodierung**: Verschiedene Regionen werden durch unterschiedliche Farben dargestellt
@@ -33,17 +33,16 @@ Die Karte ist verfügbar unter: [GitHub Pages Link einfügen]
 ```
 Map_Kronruthenien/
 ├── css/
-│   └── style.css                       # Alle benutzerdefinierten Stile
+│   └── style.css                           # Alle benutzerdefinierten Stile
 ├── data/
-│   ├── Orte_Identifikation_factgrid.xlsx   # Excel-Quelldatei
-│   └── orte_kronruthenien.geojson      # Generierte GeoJSON-Datei
+│   └── orte_kronruthenien.geojson          # Generierte GeoJSON-Datei
 ├── js/
-│   └── map.js                          # JavaScript-Logik für die Karte
+│   └── map.js                              # JavaScript-Logik für die Karte
 ├── scripts/
-│   └── create_place_geojson.py         # Python-Skript zur Datenverarbeitung
-├── index.html                          # Hauptseite der Webanwendung
-├── requirements.txt                    # Python-Abhängigkeiten
-└── README.md                           # Diese Datei
+│   └── create_place_geojson.py             # Python-Skript zur Datenverarbeitung
+├── index.html                              # Hauptseite der Webanwendung
+├── requirements.txt                        # Python-Abhängigkeiten
+└── README.md                               # Diese Datei
 ```
 
 
