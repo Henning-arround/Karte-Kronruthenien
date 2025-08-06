@@ -265,36 +265,6 @@ function createLegend() {
 }
 
 /**
- * Erstellt die Statistiken
- */
-function createStats() {
-    const statsContent = document.getElementById('stats-content');
-    
-    const totalPlaces = Object.values(regionCounts).reduce((sum, count) => sum + count, 0);
-    const totalRegions = Object.keys(regionCounts).length;
-    
-    const topRegion = Object.entries(regionCounts)
-        .sort((a, b) => b[1] - a[1])[0];
-    
-    statsContent.innerHTML = `
-        <div class="mb-2">
-            <strong>Gesamtanzahl Orte:</strong><br>
-            <span class="text-primary">${totalPlaces}</span>
-        </div>
-        <div class="mb-2">
-            <strong>Anzahl Regionen:</strong><br>
-            <span class="text-success">${totalRegions}</span>
-        </div>
-        ${topRegion ? `
-        <div class="mb-2">
-            <strong>Größte Region:</strong><br>
-            <span class="text-warning">${topRegion[0]} (${topRegion[1]} Orte)</span>
-        </div>
-        ` : ''}
-    `;
-}
-
-/**
  * Behandelt Fehler beim Laden der Daten
  */
 function handleError(error) {
@@ -328,9 +298,8 @@ async function main() {
         // Daten verarbeiten und Marker hinzufügen
         processGeoJsonData(geojsonData);
         
-        // Legende und Statistiken erstellen
+        // Legende erstellen
         createLegend();
-        createStats();
         
         // Loading-Indikator verstecken und Karte anzeigen
         document.getElementById('loading').style.display = 'none';
