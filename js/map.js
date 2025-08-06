@@ -120,7 +120,7 @@ function getRegionColor(region) {
  * Erstellt einen Marker für einen Ort
  */
 function createMarker(feature) {
-    const { name, region } = feature.properties;
+    const { name, region, wikidata_url } = feature.properties;
     const [longitude, latitude] = feature.geometry.coordinates;
     
     // Farbe für die Region bestimmen
@@ -137,19 +137,61 @@ function createMarker(feature) {
             border: 2px solid white;
             box-shadow: 0 2px 4px rgba(0,0,0,0.3);
             transition: all 0.3s ease;
+            cursor: pointer;
         "></div>`,
         iconSize: [12, 12],
         iconAnchor: [6, 6]
     });
     
-    // Marker erstellen
-    const marker = L.marker([latitude, longitude], { icon })
-        .bindPopup(`
-            <div class="popup-content">
-                <div class="popup-title">${name}</div>
-                <div class="popup-region">Region: ${region}</div>
+    // Popup-Inhalt erstellen
+    let popupContent = `
+        <div class="popup-content">
+            <div class="popup-title">${name}</div>
+            <div class="popup-region">Region: ${region}</div>
+    `;
+    
+    // Wikidata-Hinweis hinzufügen falls URL vorhanden
+    if (wikidata_url && wikidata_url.trim()) {
+        popupContent += `
+            <div class="popup-wikidata">
+                <span style="color: #666; font-size: 12px; font-style: italic;">
+                    Klicken Sie auf den Marker für weitere Informationen auf Wikidata
+                </span>
             </div>
-        `);
+        `;
+    }
+    
+    popupContent += `</div>`;
+    
+    // Marker erstellen (ohne Popup)
+    const marker = L.marker([latitude, longitude], { icon });
+    
+    // Hover-Events für Popup-Anzeige
+    marker.on('mouseover', function(e) {
+        // Popup beim Hover öffnen
+        marker.bindPopup(popupContent).openPopup();
+    });
+    
+    marker.on('mouseout', function(e) {
+        // Popup beim Verlassen schließen
+        marker.closePopup();
+    });
+    
+    // Click-Event für Wikidata-Weiterleitung (ohne Popup)
+    if (wikidata_url && wikidata_url.trim()) {
+        marker.on('click', function(e) {
+            // Popup schließen falls offen
+            marker.closePopup();
+            
+            // Direkt Wikidata-URL öffnen
+            window.open(wikidata_url, '_blank', 'noopener,noreferrer');
+        });
+    } else {
+        // Falls keine Wikidata-URL vorhanden ist, beim Klick Popup öffnen
+        marker.on('click', function(e) {
+            marker.bindPopup(popupContent).openPopup();
+        });
+    }
     
     return marker;
 }

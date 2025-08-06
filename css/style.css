@@ -84,6 +84,32 @@ body {
     font-style: italic;
 }
 
+.popup-wikidata {
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid #eee;
+}
+
+.popup-wikidata a:hover {
+    text-decoration: underline !important;
+    color: #0052a3 !important;
+}
+
+/* Custom Tooltip Styles */
+.custom-tooltip {
+    background: rgba(0, 0, 0, 0.8) !important;
+    border: none !important;
+    border-radius: 4px !important;
+    color: white !important;
+    font-size: 12px !important;
+    padding: 6px 8px !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3) !important;
+}
+
+.custom-tooltip::before {
+    border-top-color: rgba(0, 0, 0, 0.8) !important;
+}
+
 .custom-marker {
     background: transparent !important;
     border: none !important;
