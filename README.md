@@ -1,10 +1,14 @@
 # Kronruthenien Ortskarte
 
-Eine interaktive Webkarte zur Visualisierung historischer Orte in Kronruthenien basierend auf Wikidata-Informationen.
+Eine interaktive Webkarte zur Visualisierung historischer Orte in Kronruthenien basierend auf Wikidata-Informationen als Teil des VAMOD-Projekts.
+
+## Projektkontext
+
+Diese Karte ist Teil des [VAMOD-Projekts](https://leibniz-gwzo.de/de/vamod) des Leibniz-Instituts für Geschichte und Kultur des östlichen Europa (GWZO). Das Projekt modelliert vormoderne Ambiguitäten am Beispiel von Kronruthenien (1340-1434) und macht Forschungsdaten aus ca. 800 Urkunden nach FAIR-Prinzipien auf FactGrid verfügbar. Weitere Informationen zum Projekt finden Sie in der [FactGrid-Datenbank](https://database.factgrid.de/wiki/Item:Q1206913).
 
 ## Übersicht
 
-Dieses Projekt erstellt eine interaktive Karte, die historische Orte in Kronruthenien visualisiert. Die Daten werden aus einer Excel-Datei extrahiert, über Wikidata mit Koordinaten angereichert und als GeoJSON-Datei gespeichert. Die Webanwendung zeigt diese Orte dann auf einer OpenStreetMap-Karte an, wobei verschiedene Regionen durch unterschiedliche Farben gekennzeichnet sind.
+Dieses Projekt erstellt eine interaktive Karte, die historische Orte in Kronruthenien visualisiert. Die Karte zeigt alle Objektorte, die in historischen Urkunden genannt werden, und ordnet sie den Regionen zu, in denen sie in den Urkunden beschrieben werden. Die Daten werden aus einer Excel-Datei extrahiert, über Wikidata mit Koordinaten angereichert und als GeoJSON-Datei gespeichert. Die Webanwendung zeigt diese Orte dann auf einer OpenStreetMap-Karte an, wobei verschiedene Regionen durch unterschiedliche Farben gekennzeichnet sind.
 
 ## Live-Demo
 
@@ -19,6 +23,7 @@ Die Karte ist verfügbar unter: [https://Henning-arround.github.io/Karte-Kronrut
 - **Statistiken**: Übersicht über Gesamtzahl der Orte und Regionen
 - **Vollbild-Modus**: Karte kann im Vollbildmodus betrachtet werden
 - **Responsive Design**: Funktioniert auf Desktop und mobilen Geräten
+- **Urkundenbezug**: Visualisierung von Objektorten aus historischen Urkunden mit regionaler Zuordnung
 
 ## 🛠️ Technische Details
 
