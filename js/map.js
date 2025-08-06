@@ -191,7 +191,12 @@ function processGeoJsonData(geojsonData) {
     const markerGroup = L.layerGroup();
     
     geojsonData.features.forEach(feature => {
-        const { region } = feature.properties;
+        const { name, region } = feature.properties;
+        
+        // Orte filtern: nur solche ohne ";" und "?" einbeziehen (sowohl Name als auch Region)
+        if (region.includes(';') || region.includes('?')) {
+            return; // Ort überspringen
+        }
         
         // Statistiken aktualisieren
         regionCounts[region] = (regionCounts[region] || 0) + 1;
